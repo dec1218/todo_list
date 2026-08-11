@@ -1,0 +1,44 @@
+
+> todo@0.0.0 dev
+> vite
+
+[2m10:13:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+
+  [32m[1mVITE[22m v8.2.1[39m  [2mready in [0m[1m1146[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m10:13:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:17:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:17:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:17:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:17:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:18:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:18:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:18:27 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:18:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:18:51 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:18:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:18:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:19:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:19:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:19:27 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:19:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:20:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:20:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:20:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:21:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:21:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:21:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:21:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:21:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:21:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:21:58 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:22:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:22:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:22:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:27:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:27:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:40:11 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/TodoList.tsx, /src/index.css[22m
+[2m10:40:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
